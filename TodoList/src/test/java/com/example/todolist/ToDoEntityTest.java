@@ -1,6 +1,6 @@
 package com.example.todolist;
 
-import com.example.todolist.entity.Todo;
+import com.example.todolist.model.entity.Todo;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;

@@ -1,6 +1,6 @@
-package com.example.todolist.dao;
+package com.example.todolist.model.dao;
 
-import com.example.todolist.entity.Todo;
+import com.example.todolist.model.entity.Todo;
 import org.springframework.data.repository.CrudRepository;
 
 public interface TodoDao extends CrudRepository<Todo, Integer> {
